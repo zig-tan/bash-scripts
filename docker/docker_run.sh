@@ -1,0 +1,4 @@
+#!/bin/bash
+CONTAINER_NAME=$1
+RUN_COMMAND=$2
+docker exec -it $CONTAINER_NAME $RUN_COMMAND
