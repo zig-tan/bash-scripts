@@ -9,5 +9,8 @@ Somewhat helpful bash scripts to increase productivity / laziness.
   - docker_ssh.sh: SSH into specified docker container
 
 - git
-  - git_pull.sh: Checkout master and pull latest for all Git repos.
+  - git_pull.sh: Checkout master and pull latest for all Git repos
+
+- sbt
+  - sbt_g8.sh: Create new SBT/Play App using giter
 
